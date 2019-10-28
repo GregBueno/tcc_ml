@@ -8,6 +8,6 @@
         "text":4,
         "date":5,
         "datetime":5,
-        "other":6
+        "auto":6
     }
 }

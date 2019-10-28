@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 base_manusis/original/
+resource/maint_order_process.csv
 *.py[cod]
 
 # C extensions
